@@ -9,3 +9,5 @@ node_modules/
 
 # Ignore build output
 /dist
+package-lock.json
+package.json
